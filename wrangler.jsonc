@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "textilemirrorwebsite",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "textilemirrorwebsite",
+			"database_id": "5e739d11-1f7f-460f-a292-8769b130fa08"
+		}
+	]
+}
